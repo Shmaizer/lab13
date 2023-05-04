@@ -31,7 +31,7 @@ public class App
         }
 
         public void getInfo(){
-            System.out.println("Имя: "+this.name+" Фамилия: "+this.surname+" Опыт работы: "+this.expirienceInYears+" Уровень анг.: "+this.englishLevel+" Зарплата: "+this.salary);
+            System.out.println("Имяя: "+this.name+" Фамилия: "+this.surname+" Опыт работы: "+this.expirienceInYears+" Уровень анг.: "+this.englishLevel+" Зарплата: "+this.salary);
         }
         public static void getSInfo(Tester tester){
             System.out.println("Имя: "+tester.name+" Фамилия: "+tester.surname+" Опыт работы: "+tester.expirienceInYears+" Уровень анг.: "+tester.englishLevel+" Зарплата: "+tester.salary);
